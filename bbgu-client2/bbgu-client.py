@@ -5,7 +5,6 @@ import websocket
 from urllib import request
 import json
 import os
-import threading
 import time
 
 import spider
